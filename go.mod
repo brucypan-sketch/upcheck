@@ -1,3 +1,3 @@
-module github.com/brucypan-sketch/go-playground
+module github.com/brucypan-sketch/upcheck
 
 go 1.22
